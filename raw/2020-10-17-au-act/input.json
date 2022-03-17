@@ -1,0 +1,40 @@
+{
+  "elections": [
+    {
+      "code": "2020-10-17-au-act",
+      "title": "Australian Capital Territory Government",
+      "locationCountry": "au",
+      "locationAdministrativeAreaName": "act",
+      "locationLocalityName": "",
+      "locationDescription": "territory",
+      "date": "2020-10-17",
+      "dateTimeZone": "Australia/Canberra",
+      "party_codes": [],
+      "assembly_codes": [],
+      "notes": [
+        {
+          "display": "Wikipedia article",
+          "content": "https://en.wikipedia.org/wiki/2020_Australian_Capital_Territory_general_election",
+          "category": "url"
+        },
+        {
+          "display": "ACT Electoral Commission Timetable for election",
+          "content": "https://www.elections.act.gov.au/elections_and_voting/2020_legislative_assembly_election",
+          "category": "url"
+        },
+        {
+          "display": "ACT Legislative Assembly",
+          "content": "https://www.parliament.act.gov.au/",
+          "category": "url"
+        }
+      ]
+    }
+  ],
+  "assemblies": [],
+  "ballots": [],
+  "candidates": [],
+  "electorates": [],
+  "parties": [],
+  "results": []
+}
+

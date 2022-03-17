@@ -1,0 +1,62 @@
+{
+  "assemblies": [{
+    "code": "2022-03-19-au-sa-house-of-assembly",
+    "title": "House of Assembly",
+    "election_code": "2022-03-19-au-sa",
+    "electorate_codes": [],
+    "ballot_codes": [],
+    "notes": []
+  },
+    {
+      "code": "2022-03-19-au-sa-au-legislative-council",
+      "title": "Legislative Council",
+      "election_code": "2022-03-19-au-sa",
+      "electorate_codes": [],
+      "ballot_codes": [],
+      "notes": []
+    }],
+  "ballots": [],
+  "candidates":  [],
+  "elections": [{
+    "code": "2022-03-19-au-sa",
+    "title": "Parliament of South Australia",
+    "locationCountry": "au",
+    "locationAdministrativeAreaName": "sa",
+    "locationLocalityName": "",
+    "locationDescription": "state",
+    "date": "2022-03-19",
+    "dateTimeZone": "Australia/Adelaide",
+    "notes": [
+      {
+        "display": "List of candidates accessed 15 March 2022",
+        "content": "https://ecsa.sa.gov.au/elections/2022-state-election/candidates",
+        "category": "raw-url"
+      },
+      {
+        "display": "ABC coverage accessed 15 March 2022",
+        "content": "https://www.abc.net.au/news/elections/sa-election-2022",
+        "category": "info-url"
+      },
+      {
+        "display": "Wikipedia page accessed 15 March 2022",
+        "content": "https://en.wikipedia.org/wiki/2022_South_Australian_state_election",
+        "category": "info-url"
+      },
+      {
+        "display": "ECSA v1",
+        "content": "au_ecsa_v1.AuEcsaV1",
+        "category": "raw-parser"
+      },
+      {
+        "display": "ECSA Election ID",
+        "content": "24310",
+        "category": "raw-info"
+      }
+    ],
+    "assembly_codes": ["2022-03-19-au-sa-house-of-assembly","2022-03-19-au-sa-au-legislative-council"],
+    "party_codes": []
+  }],
+  "electorates":  [],
+  "parties": [],
+  "results":  []
+}

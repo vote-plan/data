@@ -1,0 +1,81 @@
+{
+  "elections": [
+    {
+      "code": "2019-05-18-au",
+      "title": "46th Australian Parliament",
+      "locationCountry": "au",
+      "locationAdministrativeAreaName": "",
+      "locationLocalityName": "",
+      "locationDescription": "national",
+      "date": "2019-05-18",
+      "dateTimeZone": "Australia/Canberra",
+      "notes": [
+        {
+          "display": "List of candidates accessed 19 Jan 2020",
+          "content": "https://www.aec.gov.au/Elections/federal_elections/2019/candidates.htm",
+          "category": "raw-url"
+        },
+        {
+          "display": "Media feed archive accessed 25 Feb 2022",
+          "content": "ftp://mediafeedarchive.aec.gov.au/24310/Standard/Verbose/aec-mediafeed-Standard-Verbose-24310-20190729153147.zip",
+          "category": "raw-url"
+        },
+        {
+          "display": "AEC tally room downloads accessed 25 Feb 2022",
+          "content": "https://results.aec.gov.au/24310/Website/HouseDefault-24310.htm",
+          "category": "raw-url"
+        },
+        {
+          "display": "AEC candidates accessed 12 Mar 2022",
+          "content": "https://aec.gov.au/Elections/federal_elections/2019/candidates.htm",
+          "category": "raw-url"
+        },
+        {
+          "display": "ABC coverage accessed 25 Feb 2022",
+          "content": "https://www.abc.net.au/news/elections/federal/2019",
+          "category": "info-url"
+        },
+        {
+          "display": "Wikipedia page accessed 25 Feb 2022",
+          "content": "https://en.wikipedia.org/wiki/2019_Australian_federal_election",
+          "category": "info-url"
+        },
+        {
+          "display": "AEC v1",
+          "content": "au_aec_v1.AuAecV1",
+          "category": "raw-parser"
+        },
+        {
+          "display": "AEC Election ID",
+          "content": "24310",
+          "category": "raw-info"
+        }
+      ],
+      "assembly_codes": ["2019-05-18-au-representatives","2019-05-18-au-senate"],
+      "party_codes": []
+    }
+  ],
+  "assemblies": [
+    {
+      "code": "2019-05-18-au-senate",
+      "title": "Senate",
+      "election_code": "2019-05-18-au",
+      "electorate_codes": [],
+      "ballot_codes": [],
+      "notes": []
+    },
+    {
+      "code": "2019-05-18-au-house-of-reps",
+      "title": "House of Representatives",
+      "election_code": "2019-05-18-au",
+      "electorate_codes": [],
+      "ballot_codes": [],
+      "notes": []
+    }
+  ],
+  "ballots": [],
+  "candidates": [],
+  "electorates": [],
+  "parties": [],
+  "results": []
+}

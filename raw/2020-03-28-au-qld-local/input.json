@@ -1,0 +1,64 @@
+{
+  "elections": [
+    {
+      "code": "2020-03-28-au-qld-local",
+      "title": "Queensland Local Government",
+      "locationCountry": "au",
+      "locationAdministrativeAreaName": "qld",
+      "locationLocalityName": "local",
+      "locationDescription": "local",
+      "date": "2020-03-28",
+      "dateTimeZone": "Australia/Brisbane",
+      "party_codes": [],
+      "assembly_codes": [],
+      "notes": [
+        {
+          "display": "Electoral Commission Queensland - 2020 Local Government Elections",
+          "content": "https://www.ecq.qld.gov.au/elections/election-events/2020-local-government-elections",
+          "category": "url"
+        },
+        {
+          "display": "ABC - 2020 Queensland Local Government Election Guide",
+          "content": "https://www.abc.net.au/news/elections/bcc/2020/guide/preview",
+          "category": "url"
+        },
+        {
+          "display": "Wikipedia - Local government in Queensland",
+          "content": "https://en.wikipedia.org/wiki/Local_government_in_Queensland",
+          "category": "url"
+        },
+        {
+          "display": "List of local governments",
+          "content": "https://www.dlgrma.qld.gov.au/local-government-directory/",
+          "category": "url"
+        },
+        {
+          "display": "LGA list",
+          "content": "https://www.business.qld.gov.au/running-business/support-assistance/mapping-data-imagery/maps/administrative-maps/council-boundaries",
+          "category": "url"
+        },
+        {
+          "display": "LGAQ map",
+          "content": "https://www.lgaq.asn.au/lgaq-revamp-theme/map/map2016-v3.html",
+          "category": "url"
+        },
+        {
+          "display": "Candidate information obtained 7 March 2020",
+          "content": "https://results.elections.qld.gov.au/Events/VoteCardsView?EventID=593&EventType=2",
+          "category": "url"
+        },
+        {
+          "display": "Candidate ballot order draw and list of candidates on 4 March 2020.",
+          "content": "",
+          "category": "display-only"
+        }
+      ]
+    }
+  ],
+  "assemblies": [],
+  "ballots": [],
+  "candidates": [],
+  "electorates": [],
+  "parties": [],
+  "results": []
+}

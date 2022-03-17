@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "vote-plan-data"
+version = "0.0.1"
+description = "Election data for Vote Plan."
+authors = ["Mark Cottman-Fields <cofiem@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+boltons = "^21.0.0"
+dataclasses-json = "^0.5.6"
+requests = "^2.27.1"
+requests-cache = "^0.9.3"
+parsel = "^1.6.0"
+
+[tool.poetry.dev-dependencies]
+black = "^22.1.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
