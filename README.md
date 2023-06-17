@@ -1,5 +1,7 @@
 # Vote Plan data
 
+> Archived. Have a look at the [Anotherbyte org](https://github.com/anotherbyte-net) for similar projects.
+
 This repository stores the raw and formatted data for the Vote Plan website.
 
 The raw data is manually downloaded from various sources, and stored in the `raw` directory.
